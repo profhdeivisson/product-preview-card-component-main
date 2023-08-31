@@ -6,6 +6,8 @@
 
 Thanks for checking out this front-end coding challenge.
 
+[Click here](https://profhdeivisson.github.io/product-preview-card-component-main/) Deploy
+
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
